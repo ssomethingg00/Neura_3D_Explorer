@@ -335,7 +335,7 @@ function Footer({ theme, scanStatus, totals, addressesCount }) {
           <div className="foot-socials">
             <a
               className="foot-icon"
-              href="https://github.com/somethingg00"
+              href="https://github.com/ssomethingg00"
               target="_blank"
               rel="noopener noreferrer"
               title="GitHub · somethingg00"
@@ -379,10 +379,10 @@ function Footer({ theme, scanStatus, totals, addressesCount }) {
 
         <div className="foot-col">
           <div className="foot-head">BUILDER</div>
-          <a href="https://github.com/somethingg00" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/ssomethingg00" target="_blank" rel="noopener noreferrer">
             <span className="dim">@</span>somethingg00 ↗
           </a>
-          <a href="https://github.com/somethingg00/Neura_3D_Explorer" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/ssomethingg00/Neura_3D_Explorer" target="_blank" rel="noopener noreferrer">
             Source Code ↗
           </a>
           <div className="foot-stat">
