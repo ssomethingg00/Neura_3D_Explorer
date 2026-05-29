@@ -115,11 +115,11 @@ styles.css        — all styling (theme tokens via CSS vars)
 
 ## Built by
 
-**[@somethingg00](https://github.com/ssomethingg00)**
+**[@ssomethingg00](https://github.com/ssomethingg00)**
 
-- GitHub — [github.com/somethingg00](https://github.com/ssomethingg00)
+- GitHub — [github.com/ssomethingg00](https://github.com/ssomethingg00)
 - Twitter / X — [@ssomethingg00](https://x.com/ssomethingg00)
-- Source — [github.com/somethingg00/Neura_3D_Explorer](https://github.com/ssomethingg00/Neura_3D_Explorer)
+- Source — [github.com/ssomethingg00/Neura_3D_Explorer](https://github.com/ssomethingg00/Neura_3D_Explorer)
 
 ---
 

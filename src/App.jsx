@@ -338,7 +338,7 @@ function Footer({ theme, scanStatus, totals, addressesCount }) {
               href="https://github.com/ssomethingg00"
               target="_blank"
               rel="noopener noreferrer"
-              title="GitHub · somethingg00"
+              title="GitHub · ssomethingg00"
               aria-label="GitHub"
             >&lt;/&gt;</a>
             <a
@@ -380,7 +380,7 @@ function Footer({ theme, scanStatus, totals, addressesCount }) {
         <div className="foot-col">
           <div className="foot-head">BUILDER</div>
           <a href="https://github.com/ssomethingg00" target="_blank" rel="noopener noreferrer">
-            <span className="dim">@</span>somethingg00 ↗
+            <span className="dim">@</span>ssomethingg00 ↗
           </a>
           <a href="https://github.com/ssomethingg00/Neura_3D_Explorer" target="_blank" rel="noopener noreferrer">
             Source Code ↗
